@@ -1,6 +1,9 @@
 
 # Movie Recommender System
 This project is a movie recommender system that suggests movies to users based on the movie they like. It is a content based recommendation model. Content-based recommendation uses movie metadata such as genres, keywords, cast, and crew to find movies that are similar to a given movie. The Website is made using Streamlit package of python
+
+[Demo](https://omdwid-movie-recommender-system-app-b84yu6.streamlit.app/) 
+
 ## Installation
 
 Install the necessary libraries specified in requirements.txt using pip
